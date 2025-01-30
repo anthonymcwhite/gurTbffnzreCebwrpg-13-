@@ -1,25 +1,25 @@
 
 # Glossary of Terms & Definitions
 <br>
-<hr noshade> 
+ 
 
 ## A
 <br>
-<hr noshade>
+
     assertive hegemony
     
 ## B
 <br>
-<hr noshade>
+
 
 ## C
 <br>
-<hr noshade>
+
     cyber warfare
     
 ## D
 <br>
-<hr noshade>
+
     deception
     dept diplomacy
     diplomacy
@@ -27,50 +27,50 @@
     
 ## E
 <br>
-<hr noshade>
+
     engagement
     
 ## F
 <br>
-<hr noshade>
+
     fake news
     false narratives
     
 ## G
 <br>
-<hr noshade>
+
     gray zone operations
     
 ## H
 <br>
-<hr noshade>
+
     hard power
     hybrid operations
     
 ## I
 <br>
-<hr noshade>
+
     information warfare
     infiltration
     influence operations
     
 ## J
 <br>
-<hr noshade>
+
 
 ## K
 <br>
-<hr noshade>
+
 
 ## L
 <br>
-<hr noshade>
+
     lawfare
     liaison work
     
 ## M
 <br>
-<hr noshade>
+
     malign influence
 
 ### Microtargeting;
@@ -103,15 +103,15 @@ Privacy concerns
 
 ## N
 <br>
-<hr noshade>
+
 
 ## O
 <br>
-<hr noshade>
+
 
 ## P
 <br>
-<hr noshade>
+
     public opinion warfare
     psychological operations
     public affairs
@@ -119,15 +119,15 @@ Privacy concerns
     
 ## Q
 <br>
-<hr noshade>
+
 
 ## R
 <br>
-<hr noshade>
+
 
 ## S
 <br>
-<hr noshade>
+
     sharp power
     soft power
     special measures
@@ -135,33 +135,33 @@ Privacy concerns
     
 ## T
 <br>
-<hr noshade>
+
     three warfares
     
 ## U
 <br>
-<hr noshade>
+
     united front
     
 ## V
 <br>
-<hr noshade>
+
 
 ## W
 <br>
-<hr noshade>
+
 
 ## X
 <br>
-<hr noshade>
+
 
 ## Y
 <br>
-<hr noshade>
+
 
 ## Z
 <br>
-<hr noshade>
+
 
 
 
