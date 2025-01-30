@@ -3,6 +3,57 @@
 <br>
 <hr noshade> 
 
+## A
+<br>
+<hr noshade>
+
+## B
+<br>
+<hr noshade>
+
+## C
+<br>
+<hr noshade>
+
+## D
+<br>
+<hr noshade>
+
+## E
+<br>
+<hr noshade>
+
+## F
+<br>
+<hr noshade>
+
+## G
+<br>
+<hr noshade>
+
+## H
+<br>
+<hr noshade>
+
+## I
+<br>
+<hr noshade>
+
+## J
+<br>
+<hr noshade>
+
+## K
+<br>
+<hr noshade>
+
+## L
+<br>
+<hr noshade>
+
+## M
+<br>
+<hr noshade>
 Microtargeting is a data-driven method of sending tailored messages to specific groups of people. It's used in advertising and political campaigns to influence people's actions. 
 How it works
 
@@ -29,3 +80,59 @@ Privacy concerns
 
     Microtargeting raises concerns about data exploitation and privacy.
     Some organizations are working to uncover the data ecosystem behind microtargeting and hold the actors involved accountable.
+
+## N
+<br>
+<hr noshade>
+
+## O
+<br>
+<hr noshade>
+
+## P
+<br>
+<hr noshade>
+
+## Q
+<br>
+<hr noshade>
+
+## R
+<br>
+<hr noshade>
+
+## S
+<br>
+<hr noshade>
+
+## T
+<br>
+<hr noshade>
+
+## U
+<br>
+<hr noshade>
+
+## V
+<br>
+<hr noshade>
+
+## W
+<br>
+<hr noshade>
+
+## X
+<br>
+<hr noshade>
+
+## Y
+<br>
+<hr noshade>
+
+## Z
+<br>
+<hr noshade>
+
+
+
+
