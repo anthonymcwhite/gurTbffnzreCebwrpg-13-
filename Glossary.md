@@ -6,7 +6,8 @@
 ## A
 <br>
 <hr noshade>
-
+    assertive hegemony
+    
 ## B
 <br>
 <hr noshade>
@@ -14,31 +15,45 @@
 ## C
 <br>
 <hr noshade>
-
+    cyber warfare
+    
 ## D
 <br>
 <hr noshade>
-
+    deception
+    dept diplomacy
+    diplomacy
+    disinformation
+    
 ## E
 <br>
 <hr noshade>
-
+    engagement
+    
 ## F
 <br>
 <hr noshade>
-
+    fake news
+    false narratives
+    
 ## G
 <br>
 <hr noshade>
-
+    gray zone operations
+    
 ## H
 <br>
 <hr noshade>
-
+    hard power
+    hybrid operations
+    
 ## I
 <br>
 <hr noshade>
-
+    information warfare
+    infiltration
+    influence operations
+    
 ## J
 <br>
 <hr noshade>
@@ -50,10 +65,13 @@
 ## L
 <br>
 <hr noshade>
-
+    lawfare
+    liaison work
+    
 ## M
 <br>
 <hr noshade>
+    malign influence
 
 ### Microtargeting;
 <tt>is a data-driven method of sending tailored messages to specific groups of people. It's used in advertising and political campaigns to influence people's actions. 
@@ -94,7 +112,11 @@ Privacy concerns
 ## P
 <br>
 <hr noshade>
-
+    public opinion warfare
+    psychological operations
+    public affairs
+    public diplomacy
+    
 ## Q
 <br>
 <hr noshade>
@@ -106,15 +128,21 @@ Privacy concerns
 ## S
 <br>
 <hr noshade>
-
+    sharp power
+    soft power
+    special measures
+    subversion
+    
 ## T
 <br>
 <hr noshade>
-
+    three warfares
+    
 ## U
 <br>
 <hr noshade>
-
+    united front
+    
 ## V
 <br>
 <hr noshade>
