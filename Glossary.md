@@ -1,7 +1,12 @@
+
+### Glossary of Terms & Definitions
+<br>
+<hr noshade> 
+
 Microtargeting is a data-driven method of sending tailored messages to specific groups of people. It's used in advertising and political campaigns to influence people's actions. 
 How it works
 
-    Microtargeting uses personal data to identify a target audience's interests. 
+    -Microtargeting uses personal data to identify a target audience's interests. 
 
 This data can include demographics, behaviors, and online interactions. 
 Microtargeting can be used to create personalized messages for individuals or small groups. 
